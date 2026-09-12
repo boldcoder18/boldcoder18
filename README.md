@@ -22,11 +22,3 @@ I am a computer applications student passionate about building dynamic web appli
 - 🤝 **Open Source:** Exploring open-source projects and developer communities.
 - 🛠️ **Daily Practice:** Committing code and building projects every day.
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=boldcoder18&show_icons=true&theme=dark&hide_border=true" alt="boldcoder18's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldcoder18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-</p>
